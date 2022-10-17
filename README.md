@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi 👋, I'm Hugo Souza!
+
+
 
 <!--
 **Hugo-Souza/Hugo-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📊 Github Stats
+<a href='https://github.com/Hugo-Souza/github-stats-transparent'>
+
+### 🛠️ My Projects
