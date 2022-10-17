@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 
 ### 📊 Github Stats
 <a href='https://github.com/Hugo-Souza/github-stats-transparent'>
+![Hugo-Souza Status](https://github-readme-stats.vercel.app/api?username=Hugo-Souza&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Souza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ My Projects
